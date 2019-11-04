@@ -1,0 +1,574 @@
+Casablanca–Anfa Airport
+Durban International Airport
+Palmietfontein Airport
+Rand Airport
+Simi-Simi Airport
+Wingfield Aerodrome
+Abu Dhabi Airfield
+Abu Dhabi/Al Bateen
+Atarot Airport
+Bacolod City Domestic Airport
+Bangalore/Hindustan Airport
+Begumpet Airport
+Beijing Nanyuan Airport
+Chongqing Baishiyi Air Base
+Colombo/Ratmalana Airport
+Doha International Airport
+Guangzhou Baiyun International Airport (former)
+HAL Bangalore International Airport
+Hangzhou Jianqiao Airport
+Hefei Luogang International Airport
+Ishigaki Airport
+Islamabad International Airport
+Juhu Aerodrome
+Kai Tak Airport
+Kallang Airport
+Kemayoran Airport
+Kunming Wujiaba International Airport
+Mandurriao Airport
+Nanchang Xiangtang Airport
+Nanjing Dajiaochang Airport
+Paya Lebar Air Base
+Quilon Aerodrome
+Polonia International Airport
+Şanlıurfa Airport
+Safdarjung Airport
+Selaparang Airport
+Seletar Airport
+Shanghai Longhua Airport
+Shantou Waisha Airport
+Sungai Besi Airport
+Suzhou Guangfu Airport
+Tagbilaran Airport
+Temindung Airport
+Xi'an Xiguan Airport
+Yasser Arafat International Airport
+Herrera International Airport
+Ilopango International Airport
+Santiago Municipal Airport
+W. H. Bramble Airport
+Berlin Tempelhof Airport
+Blackbushe Airport
+Blackpool International Airport
+Bristol (Whitchurch) Airport
+Bykovo Airport
+Calais–Dunkerque Airport
+Ciudad Real Central Airport
+Cologne Butzweilerhof Airport
+Croydon Airport
+Ellinikon International Airport
+Galway Airport
+Glasgow/Renfrew Airport
+Göteborg/Säve Airport
+Göteborg/Torslanda Airport
+Haren Airport
+Helsinki-Malmi Airport
+Ipswich Airport
+Katowice-Muchowiec Airport
+Khodynka Aerodrome
+Kraków-Rakowice-Czyżyny Airport
+Lympne Airport
+Lyon-Bron Airport
+Malmö Bulltofta Airport
+Manston Airport
+Minsk-1 Airport
+Munich-Riem Airport
+Nicosia International Airport
+Northolt Airport
+Oslo Airport, Fornebu
+Paris–Le Bourget Airport
+Rhodes Maritsa Airport
+Rome Urbe Airport
+Sheffield City Airport
+Słupsk-Redzikowo Airport
+Son Bonet Airport
+Spilve Airport
+Stavanger Airport, Forus
+Waalhaven
+Daly Waters Airfield
+Eagle Farm Airport
+Essendon Airport
+Augusto Severo International Airport
+Bartolomeu de Gusmão Airport
+Juana Azurduy de Padilla International Airport
+Limatambo International Airport
+Old Mariscal Sucre International Airport
+Presidente Médici International Airport
+Techo International Airport
+Anniston Army Airfield
+Brundidge Municipal Airport
+Eutaw Municipal Airport
+Freddie Jones Field
+Moundville Airport
+Skyharbor Airport
+Tuskegee Army Airfield
+Cape Sabine Airport
+Chignik Fisheries Airport
+Fort Glenn Army Airstrip
+Haycock Airport
+Lost River 1 Airport
+Jonesville Mine Airport
+Lake Louise Airport
+Pauloff Harbor Seaplane Base
+Tok Airport
+Weeks Field
+Ganado Airport
+Dennis F. Cantrell_Field
+Saline County Airport
+Alum Rock Airport
+Amboy Airfield
+Cal Poly, San Luis Obispo
+Central Airport
+Crissy Field
+Del Mar Municipal Airport
+Disneyland Helipad
+Gardner Army Airfield
+Grand Central Airport
+Hamilton Air Force Base
+Hamilton Army Airfield
+Hughes Airport
+Marine Corps Air Station El Toro
+Meadowlark Airport
+Naval Air Station Alameda
+Quartz Hill Airport
+Rialto Municipal Airport
+Rice Army Airfield
+Sierra Airdrome
+Santa Cruz Sky Park
+War Eagle Field
+Fort Collins Downtown Airport
+Nichols Field
+Stapleton International Airport
+Ansonia
+Griswold Airport
+Rehoboth Beach
+Naval Air Station Anacostia
+Bolling Air Force Base
+Epcot Center Ultralight Flightpark
+Imeson Field
+Opa-locka West Airport
+Taylor Field
+Tallahassee Commercial Airport
+Tampa Bay Executive Airport
+Richmond Naval Air Station
+Turner Air Force Base
+Naval Air Station Glynco
+Naval Air Station Atlanta
+Morris Army Airfield
+Liberty County Airport
+Haleiwa Fighter Strip
+Kaanapali Airport
+Kipapa Airfield
+Kona Airport
+Kualoa Airfield
+Marine Corps Air Station Ewa
+Morse Field
+MCAS Ewa
+Naval Auxiliary Landing Field Ford Island
+Stanley Army Airfield
+Ashburn Flying Field
+Earlville Airport
+Hillsboro Municipal Airport
+Machesney Airport
+Meigs Field
+Naval Air Station Glenview
+Action Airpark
+Butler
+Decatur Hi-Way Airport
+Elwood Airport
+Harrold Airport
+O'Neal Airport
+Stout Army Air Field
+Hawarden Municipal Airport
+Eldora Municipal Airport
+Hamilton Field
+Wilroads Gardens Airport
+Paul Windle Municipal Airport
+Fairfax Airport
+Plainville Airpark
+Stockton Municipal Airport
+Maize Airport
+Hardin County Airport
+Morehead-Rowan County Airport
+Olive Hill Airport
+Colfax Airport
+Haynesville Airport
+Charlie Hammonds Seaplane Base
+NAS Brunswick
+Baltimore Airpark
+Braintree Airport
+Fall River Municipal Airport
+Naval Air Station South Weymouth
+Naval Air Station Squantum
+Tew-Mac Airport
+Bean Blossom Airport
+Big Beaver Airport
+Bonnie Field
+Burns Airport
+Craft's Field
+David Airfield
+Davis Airport
+Double JJ Resort Ranch Airport
+Erie Aerodrome
+Ford Airport
+John R. Airport
+Marquette County Airport
+Mayes Airport
+Miller Airport
+Raco Army Landing Airfield
+Tackaberry Airport
+Yuba Airport
+New York Mills Municipal Airport
+Fulton-Itawamba County Airport
+Richards-Gebaur Airport
+Air Park South
+Princeton-Kauffman Memorial Airport
+St. Charles Airport
+Belle Creek Airport
+Broadus Airport
+Glasgow Air Force Base
+Mountain Lakes Field
+Morgan Airport
+Poplar Airport
+Arthur Municipal Airport
+Bruning Army Airfield
+McCook Army Airfield
+Anderson Field
+Boulder City Airport
+Caliente Flight Strip
+Delamar Landing Field
+Goldfield Airport
+Jackass Aeropark
+Tonopah Test Range
+Atlantic City Municipal Airport
+Li Calzi Airport
+Twin Pine Airport
+Alamo Navajo Airport
+Oxnard Field
+West Mesa Airport
+Angola Airport
+Floyd Bennett Field
+Flushing Airport
+Holmes Airport
+Miller Field
+Mitchel Field
+Monticello Airport
+Oneida County Airport
+Peekskill Seaplane Base
+Roosevelt Field
+Shawangunk Grasslands National Wildlife Refuge
+Syracuse Municipal Airport
+Zahn's Airport
+Halifax County Airport
+Raleigh Municipal Airport
+Pruetz Municipal Airport
+Cincinnati-Blue Ash Airport
+Griffing Sandusky Airport
+Youngstown Executive Airport
+Teramiranda Airport
+Love County Airport
+NAS Tongue Point
+Bernard's Airport
+Jantzen Beach Seaplane Base
+Swan Island Airport
+McGinness Airport
+McVille Airport
+Cherry Springs Airport
+Olmsted Air Force Base
+Hershey Airpark
+Indian Lake Airport
+Kutztown Airport
+Erie County Airport
+Charlestown NAAS
+NAS Quonset Point
+Chinquapin Airport
+Lane Airport
+NAS Charleston
+Dupree Municipal Airport
+Harrold Municipal Airport
+McIntosh Municipal Airport
+Mission Sioux Airport
+Cornelia Fort Airpark
+Powell STOLport
+Andrau Airpark
+Cameron Airport
+Eagle Pass Army Airfield
+Horizon Airport
+Robert Mueller Municipal Airport
+Jake Garn Airport
+Fair Haven Municipal Airport
+Beacon Field Airport
+Falls Church Airpark
+Hartwood Airport
+Hoover Field
+Tappahannock Municipal Airport
+Washington Airport
+Washington-Hoover Airport
+Washington-Virginia Airport
+J-Z Airport
+Bellevue Airfield
+Blaine Municipal Airport
+Martha Lake Airport
+Evergreen Field
+Vista Field
+Orote Field
+Northwest Field
+Johnston Atoll Airport
+Henderson Field
+Palmyra Atoll Airfield
+North Field
+Camp Garcia Vieques
+Dorado Airport
+Losey Army Airfield
+Ramey Air Force Base
+Roosevelt Roads Naval Station
+Verdant Meadows Airfield
+Acme Airport
+Andrew Airport
+Bjorgum Farm Airport
+Cadotte Airport
+Caroline Aerodrome
+Chinchaga Airport
+Conklin Airport
+Cowpar Airport
+Didsbury (Vertical Extreme Skydiving) Aerodrome
+Edmonton City Centre (Blatchford Field) Airport
+Edmonton/St. Albert Airport
+Embarras Airport
+Fontas Airport
+Fitzgerald (Fort Smith) Water Aerodrome
+Forestburg Airport
+Fort Chipewyan/Small Lake Water Aerodrome
+Grande Cache Airport
+Grist Lake Airport
+Hamburg Aerodrome
+High Level/Footner Lake Water Aerodrome
+RCAF Station High River
+Lethbridge/Anderson Aerodrome
+Liege/CNRL Aerodrome
+Milk River (Madge) Airport
+Olds/North 40 Ranch Aerodrome
+RCAF Station Pearce
+Red Deer/South 40 Airstrip
+St. Francis Airport
+St. Lina Aerodrome
+Steen Tower Airport
+Turner Valley Bar N Ranch Airport
+RCAF Station Vulcan
+Zama Airport
+Alice Arm/Silver City Water Aerodrome
+Barkerville Airport
+Bronson Creek Airport
+Crawford Bay Airport
+Dawson Creek Water Aerodrome
+Dog Creek (ex. RCAF)
+Eddontenajon/Iskut Village Airport
+Esquimalt Airport
+Finlay Bay Water Aerodrome
+Fort Grahame Water Aerodrome
+Fort Nelson/Mobil Sierra Airport
+Fort St. John/Tompkins Mile 54 Airport
+Gang Ranch Airport
+Kahntah Aerodrome
+Canadian Forces Station Ladner
+Mayne Island Water Aerodrome
+Minoru Park
+Minstrel Island Water Aerodrome
+Mission Water Aerodrome
+Peggo Devon Canada Aerodrome
+Penticton Water Aerodrome
+Poplar Beach Resort Water Aerodrome
+Port Alice/Rumble Beach Water Aerodrome
+Port Simpson Water Aerodrome
+Port Washington Water Aerodrome
+Prince George (North Cariboo Air Park) Airport
+Quilchena Airport
+Rykerts Water Aerodrome
+Scar Creek Airport
+Scum Lake Airport
+Sechelt/Porpoise Bay Water Aerodrome
+Takla Narrows Aerodrome
+Tasu Water Aerodrome
+Tsacha Lake Airport
+Telegraph Creek Airport
+Williams Lake Water Aerodrome
+Arnes Airport
+Canadian Forces Base Portage la Prairie
+Gilbert Plains Airport
+Gods Lake Narrows Water Aerodrome
+Hartney Airport
+Matheson Island Airport
+Pukatawagen Water Aerodrome
+Shilo Heliport
+Ste. Rose du Lac Airport
+The Pas/Grace Lake Water Aerodrome
+Virden (West) Airport
+Wabowden Water Aerodrome
+Warren/Woodlands Airport
+RCAF Station Pennfield Ridge
+Saint-Quentin Aerodrome
+Naval Station Argentia
+Bay d'Espoir Aerodrome
+Ernest Harmon Air Force Base
+Hope Brook Aerodrome
+Paradise River Airport
+Saglek Airport
+Arctic Red River Water Aerodrome
+Colomac Airport
+Fitzgerald (Fort Smith) Water Aerodrome
+Fort McPherson Water Aerodrome
+Fort Providence Water Aerodrome
+Hay River/Brabant Lodge Water Aerodrome
+Mould Bay Airport
+Nahanni Butte Water Aerodrome
+Apple River Airport
+Amherst Airport
+Fancy Lake Water Aerodrome
+Middle Stewiacke Airport
+Halifax Civic Airport
+Tatamagouche Airport
+Valley Airport
+Waterville/Kings County Municipal Airport
+Waverley/Lake William Water Aerodrome
+Frobisher Bay Air Base
+Lupin Airport
+Nanisivik Airport
+Armstrong/Waweig Lake Water Aerodrome
+Atwood Airport
+RCAF Detachment Alliston
+Armour Heights Field
+Arnstein Airport
+Barker Field
+Barrie/Little Lake Water Aerodrome
+Batchawana Water Aerodrome
+Caledonia/Grand River Water Aerodrome
+Chapleau Water Airport
+Cushing Lake Water Aerodrome
+Deer Lake Water Aerodrome
+Deer Lake/Keyamawun Water Aerodrome
+De Lesseps Field
+Dorset/Kawagama Lake (Old Mill Marina) Water Aerodrome
+Downsview Airfield
+Durham (Mulock) Airport
+Dunnville Airport
+Eagle River Airport
+Ear Falls Airport
+Fergus (Royland Field) Aerodrome
+Five Mile Lake Water Aerodrome
+Fort Erie Airport
+Gananoque Water Aerodrome
+Gowganda/Gowganda Lake Water Aerodrome
+Grand Valley (Madill Field) Aerodrome
+Haliburton Water Aerodrome
+Hawkesbury (Windover Field) Airport
+Huntsville/Deerhurst Resort Airport
+Killaloe/Bonnechere Airport
+Kincardine (Ellis Field) Airport
+King City Airport
+Kingston Airfield
+Lake Rosseau/Cameron Bay Water Aerodrome
+Lake Rosseau/Morgan Bay Water Aerodrome
+Lake Rosseau/Windermere Water Aerodrome
+Leaside Aerodrome
+Lefroy Airport
+Little Current Water Aerodrome
+Long Branch Aerodrome
+Lucknow Airpark
+Maple Airport
+Nakina/Lower Twin Lake Water Aerodrome
+New Liskeard Airport
+New Lowell Airport
+Nobleton Airport
+Norwood Airport
+Orangeville/Brundle Field Aerodrome
+Orton/Smith Field Airport
+Palmerston Airport
+Parry Sound/Derbyshire Island Water Aerodrome
+Pays Plat Water Aerodrome
+Perry Lake Water Aerodrome
+Pikangikum Water Aerodrome
+Port Elgin (Pryde Field) Airport
+Sault Ste. Marie/Partridge Point Water Aerodrome
+Selkirk/Kindy Airstrip
+Sioux Narrows Airport
+Straffordville Airport
+Thessalon Municipal Airport
+Terrace Bay Airport
+Timmins/Porcupine Lake Water Aerodrome
+Toronto Aerodrome
+Willowdale Airfield
+Winchester Airport
+Windermere Airport
+Grand River Airport
+RCAF Station Charlottetown
+RCAF Station Mount Pleasant
+CFB Summerside
+Aguanish Water Aerodrome
+Cartierville Airport
+Chambly Airport
+L'Assomption Airport
+Chibougamau/Lac Caché Water Aerodrome
+Lac Gobeil Water Aerodrome
+Lac-des-Îles Water Aerodrome
+Lac à la Perchaude Airport
+Lac Gagnon Water Aerodrome
+Lac Kaiagamac Water Aerodrome
+Lac Sept-Îles Water Aerodrome
+Lennoxville (Airview) Airport
+Maniwaki/Blue Sea Lake Water Aerodrome
+Matagami Water Aerodrome
+Matoush Aerodrome
+Mont-Tremblant/Lac Duhamel Water Aerodrome
+Mont-Tremblant/Lac Ouimet Water Aerodrome
+Montréal/Boucherville Water Aerodrome
+Montréal/Île Sainte-Hélène Water Airport
+Montréal/Mascouche Airport
+Opinaca Aerodrome
+Ottawa/Gatineau Water Aerodrome
+Parc de la Vérendrye (Le Domaine) Water Aerodrome
+Pontiac Airpark
+Pontiac Airpark Water Aerodrome
+Rivière Saint-Maurice (Aviation Maurice) Water Aerodrome
+CFB St. Hubert
+Sainte-Agnès-de-Dundee Aerodrome
+Sainte-Julienne Aerodrome
+Sainte-Lucie-de-Beauregard Aerodrome
+Aérodrome Saint-Louis
+Senneterre Airport
+Stanhope Airport
+Témiscaming/Lac Kipawa Water Aerodrome
+Victoria STOLport
+Beechy Airport
+Buttress, Saskatchewan
+Cluff Lake Airport
+Cudworth Airport
+Cut Knife Airport
+RCAF Station Dafoe
+Eastend Airport
+Estevan/Bryant Airport
+Ferland Airport
+Gainsborough Airport
+Hague/Guliker Field Aerodrome
+Hanley Airport
+Hidden Bay Airport
+Imperial Airport
+La Loche Water Aerodrome
+Lewvan (Farr Air) Airport
+Lumsden (Metz) Airport
+Naicam Airport
+Nipawin Water Aerodrome
+North Battleford/Hamlin Airport
+Otter Lake Airport
+Paradise Hill Airport
+Redvers Airport
+Spiritwood Airport
+Squaw Rapids Airport
+Wawota Airport
+West Poplar Airport
+White City (Radomsky) Airport
+Wilkie Airport
+Willow Bunch Airport
+Dawson City Water Aerodrome
+Faro/Johnson Lake Water Aerodrome
+Haines Junction/Pine Lake Water Aerodrome
+Teslin Water Aerodrome
